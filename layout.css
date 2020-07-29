@@ -1,1 +1,1 @@
-img[alt=email] { width: 400px;}
+img[alt$="email"] { width: 400px;}
