@@ -2,7 +2,7 @@
 
 I Program in Java, Rust, Python and C ++.
 
-<img src="email.png" width="200"/>
+<img src="email.png" width=600"/>
 
 [My Medium](https://medium.com/@tobias.lino)
 
