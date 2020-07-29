@@ -2,7 +2,7 @@
 
 I Program in Java, Rust, Python and C ++.
 
-![](/email.png = 100*20)
+![](/email.png =100*20)
 
 [My Medium](https://medium.com/@tobias.lino)
 
