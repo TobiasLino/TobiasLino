@@ -2,7 +2,7 @@
 
 ### I Program in Java, Rust, Python and C ++.
 
-![image alt email](https://user-images.githubusercontent.com/50988433/88834248-f0ed8e80-d1a9-11ea-9a00-9fe9c79e1c2f.png)
+![email](https://user-images.githubusercontent.com/50988433/88834248-f0ed8e80-d1a9-11ea-9a00-9fe9c79e1c2f.png) {.email}
 
 [My Medium](https://medium.com/@tobias.lino)
 
