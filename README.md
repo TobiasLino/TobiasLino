@@ -1,11 +1,6 @@
-## Hi there, I'm Tobias Lino!
-
-- 🔭 I’m currently working on SONDA
-- 👯 I’m looking to collaborate on open source projects.
-- 🗑️ For now, I'm studying models of garbage collectors.
-
-I'm looking to understand how neural networks are used for simulations of high-resolution cosmological hydrodynamics, but that is for another day.
-
-[My Medium](https://medium.com/@tobias.lino)
-
-[My Linkedin](https://www.linkedin.com/in/tobiaslino)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TobiasLino&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasLino&langs_count=3&hide_title=true&hide_border=true" />
+</a>
